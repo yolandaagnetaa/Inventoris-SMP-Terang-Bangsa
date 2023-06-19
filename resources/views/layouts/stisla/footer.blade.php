@@ -1,6 +1,6 @@
 <footer class="main-footer">
     <div class="footer-left">
-        2020 <div class="bullet"></div> Dikembangkan oleh <a href="https://www.instagram.com/kknmum.umy005/">KKN.MuM.005</a>
+        2020 <div class="bullet"></div> Dikembangkan oleh <a href="https://www.instagram.com/yolandaagneta/"><Terang.Bangsa"></Yolanda></a>
     </div>
     <div class="footer-right">
         2.3.0

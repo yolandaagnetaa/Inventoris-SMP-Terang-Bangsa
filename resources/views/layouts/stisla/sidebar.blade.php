@@ -1,7 +1,7 @@
 <div class="main-sidebar">
     <aside id="sidebar-wrapper">
         <div class="sidebar-brand">
-            <a href="index.html"><p>SD Muhammadiyah<br>Brosot</p></a>
+            <a href="index.html"><p>SMP Terang<br>Bangsa</p></a>
         </div>
         <div class="sidebar-brand sidebar-brand-sm">
             <a href="index.html">SDMB</a>
@@ -11,7 +11,7 @@
             <li class="nav-item dropdown {{ Request::segment(2) === 'dashboard' ? 'active' : '' }}">
                 <a href="{{ route('home') }}" class="nav-link"><i class="fas fa-fire"></i><span>Dashboard</span></a>
             </li>
-            <li class="menu-header">Manajemen</li>
+            <li class="menu-header">Pendataan</li>
             <li class="nav-item dropdown {{ Request::segment(2) === 'barang' ? 'active' : '' }}">
                 <a href="{{ route('barang.index') }}" class="nav-link"><i class="fas fa-columns"></i> <span>Data Barang</span></a>
             </li>
